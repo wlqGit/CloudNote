@@ -1,4 +1,4 @@
-package com.aristark.note;
+package com.wlq.cloudnote;
 
 import java.util.Date;
 import java.util.UUID;

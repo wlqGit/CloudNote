@@ -1,9 +1,10 @@
-package com.aristark.note;
+package com.wlq.cloudnote;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
+import com.aristark.note.R;
 
 /**
  * Created by aristark on 3/4/16.

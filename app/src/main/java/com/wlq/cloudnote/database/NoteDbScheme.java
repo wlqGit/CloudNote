@@ -1,4 +1,4 @@
-package com.aristark.note.database;
+package com.wlq.cloudnote.database;
 
 /**
  * Created by aristark on 3/6/16.

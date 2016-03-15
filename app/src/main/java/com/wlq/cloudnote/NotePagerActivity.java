@@ -1,4 +1,4 @@
-package com.aristark.note;
+package com.wlq.cloudnote;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,6 +8,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+import com.aristark.note.R;
 
 import java.util.ArrayList;
 import java.util.UUID;

@@ -9,12 +9,12 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.aristark.note.NotesListActivity"
+    tools:context="com.wlq.cloudnote.NotesListActivity"
     tools:showIn="@layout/app_bar_notes_list">
 
 
     <fragment
-        android:name="com.aristark.note.NotesListFragment"
+        android:name="com.wlq.cloudnote.NotesListFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/fragment_container"/>

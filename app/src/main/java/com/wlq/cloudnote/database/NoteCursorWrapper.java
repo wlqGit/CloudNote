@@ -1,9 +1,9 @@
-package com.aristark.note.database;
+package com.wlq.cloudnote.database;
 
 import android.database.Cursor;
 import android.database.CursorWrapper;
 
-import com.aristark.note.Note;
+import com.wlq.cloudnote.Note;
 
 import java.util.Date;
 import java.util.UUID;

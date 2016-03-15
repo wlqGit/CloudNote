@@ -1,13 +1,13 @@
-package com.aristark.note;
+package com.wlq.cloudnote;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.aristark.note.database.NoteBaseHelper;
-import com.aristark.note.database.NoteCursorWrapper;
-import com.aristark.note.database.NoteDbScheme;
+import com.wlq.cloudnote.database.NoteBaseHelper;
+import com.wlq.cloudnote.database.NoteCursorWrapper;
+import com.wlq.cloudnote.database.NoteDbScheme;
 
 import java.util.ArrayList;
 import java.util.UUID;

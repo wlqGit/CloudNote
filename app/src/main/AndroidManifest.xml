@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".NotesListActivity"
+            android:name="com.wlq.cloudnote.NotesListActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -19,9 +19,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".NoteAddActivity"
-            android:parentActivityName=".NotesListActivity"></activity>
-        <activity android:name=".NotePagerActivity"></activity>
+            android:name="com.wlq.cloudnote.NoteAddActivity"
+            android:parentActivityName="com.wlq.cloudnote.NotesListActivity"></activity>
+        <activity android:name="com.wlq.cloudnote.NotePagerActivity"></activity>
     </application>
 
 </manifest>

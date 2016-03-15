@@ -1,4 +1,4 @@
-package com.aristark.note;
+package com.wlq.cloudnote;
 
 import android.content.Context;
 import android.content.Intent;
