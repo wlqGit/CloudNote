@@ -1,0 +1,16 @@
+<resources>
+    <!--<string name="app_name">Note</string>-->
+
+    <string name="app_name">AriNote</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_add_crime">添加笔记</string>
+    <string name="note_add_title_hint">请输入标题...</string>
+    <string name="note_add_content_hint">请输入内容...</string>
+</resources>
